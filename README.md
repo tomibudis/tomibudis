@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Tomi 👋 💻
+
+![background-white](https://user-images.githubusercontent.com/17840955/116578847-03187b00-a93c-11eb-95ab-11aaa7b99268.png)
 
 <!--
 **tomibudis/tomibudis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
