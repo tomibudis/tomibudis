@@ -1,12 +1,12 @@
-### Hi, I'm Tomi 👋 💻
+### Hi, I'm Tomi 👋 :
 
-![banner](https://user-images.githubusercontent.com/17840955/116733862-d2594400-aa16-11eb-95ca-bfc3cc87b5dd.png)
-
-<!--
-**tomibudis/tomibudis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://user-images.githubusercontent.com/17840955/116733862-d2594400-aa16-11eb-95ca-bfc3cc87b5dd.png" alt="banner" width="100%">
 
 I’m front-end dev have 4+ years experienced react developers with hands on experience identifying web-based on user interactions along with designing and implementing highly responsive user interface components be deploying react concept. Proficient in translating design and wireframes into high quality code and writing with clean code architecture. Also adept at monitoring and maintaining front-end performance and troubleshooting and debugging. 💪
 
+
+<!--
+**tomibudis/tomibudis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
