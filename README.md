@@ -20,7 +20,7 @@ I’m front-end dev have 4+ years experienced react developers with hands on exp
 -->
 ### 🔍 How to reach me
 
-- Website: hellotoms.com
+- Website: [hellotoms.com](https://hellotoms.com)
 - Email: tomibudis@gmail.com
 - LinkedIn: https://www.linkedin.com/in/tomi-budi-20aa3a92
 - Instagram: https://www.instagram.com/tomi_budi/
